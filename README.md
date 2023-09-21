@@ -1,5 +1,5 @@
 # Save the Acorn
-The fantastic maze game saving the poor acorn!
+The fantastic maze game saving the poor acorn!    
 ![example map](https://github.com/ChristinChen233/SaveAcorn/blob/main/others/example_map.jpeg)
 
 # Game Description
