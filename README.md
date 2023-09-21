@@ -1,4 +1,4 @@
-# SaveAcorn
+# Save the Acorn
 The fantastic maze game saving the poor acorn!
 
 # Game Description
