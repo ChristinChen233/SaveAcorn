@@ -2,7 +2,7 @@
 The fantastic maze game saving the poor acorn!
 
 # Game Description
-You are helping our poor acorn to walk out the maze safely. On your way, bravely extinguish the fire using water drop you collected, and make use of the same number cells to perform space jumps to shorten the journey.
+You are helping our poor acorn to walk out the maze safely. On your way, you will need to bravely extinguish the fire using water drop you have collected, and make use of the same number cells to perform space jumps to shorten the journey.
 - Use W A S D to move
 - Use solver.py DFS/BFS to output the solution.
 - You can make your own map your_map.txt, the cells are crresponded to different marks
