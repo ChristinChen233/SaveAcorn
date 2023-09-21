@@ -1,8 +1,8 @@
 # Save the Acorn
-The fantastic maze game saving the poor acorn!    
+The fantastic maze game saving the poor acorn!  
+
 <img src="https://github.com/ChristinChen233/SaveAcorn/blob/main/others/example_map.jpeg" width = "400">
 
-# Game Description
 You are helping our poor acorn to walk out the maze safely. On your way, you will need to bravely extinguish the fire using water drop you have collected, and make use of the same number cells to perform space jumps to shorten the journey.
 - Use W A S D to move
 - Use solver.py DFS/BFS to output the solution.
