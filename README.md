@@ -1,6 +1,6 @@
 # Save the Acorn
 The fantastic maze game saving the poor acorn!    
-![example map](https://github.com/ChristinChen233/SaveAcorn/blob/main/others/example_map.jpeg)
+![example map](https://github.com/ChristinChen233/SaveAcorn/blob/main/others/example_map.jpeg | width=50)
 
 # Game Description
 You are helping our poor acorn to walk out the maze safely. On your way, you will need to bravely extinguish the fire using water drop you have collected, and make use of the same number cells to perform space jumps to shorten the journey.
